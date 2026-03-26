@@ -1,4 +1,4 @@
-# AIML2003-nlp-AIML2013
+# AIML2003-nlp-AIML2013-cv
 Labs and projects for AIML 2003: Introduction to NLP, AIML 2013: Introduction to Computer Vision
 
 Spring 2026 | Rose State College
