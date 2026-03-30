@@ -7,5 +7,6 @@ This repository contains my labs, notebooks, and projects
 for AIML 2003: Introduction to NLP 
 
 ## Contents
-- Week 2: Context Engineering
+-Week 1 Setup
+- Week 1: Context Engineering Lab
 - (more to come each week)
